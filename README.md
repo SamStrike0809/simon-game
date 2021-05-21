@@ -3,7 +3,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-
+![ScreenShot](./simon.png)
 
 ## General info
 This project is the simon game where you remember the order of colors as they flash
